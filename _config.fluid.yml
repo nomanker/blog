@@ -80,3 +80,22 @@ theme: fluid
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+
+# 博客标题
+navbar:
+  blog_title: ggssh's blog
+
+
+# 首页
+index:
+  # Slogan
+  slogan:
+    enable: true
+    text: 没有人能够熄灭满天星光
+    api:
+      enable: false
+      url: "https://v1.hitokoto.cn/"
+      method: "GET"
+      headers: {}
+      keys: ["hitokoto"]
