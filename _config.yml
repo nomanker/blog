@@ -9,7 +9,7 @@ subtitle:
 description:
 keywords:
 author: ggssh
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -74,7 +74,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cupertino
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
