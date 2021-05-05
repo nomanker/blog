@@ -100,6 +100,5 @@ index:
       method: "GET"
       headers: {}
       keys: ["hitokoto"]
-
-# 页面顶部大图
-banner_img: https://ggssh.oss-cn-beijing.aliyuncs.com/mdimg/1e7c0d6d4d943662e5b634e1400464a3.jpg
+  # 页面顶部大图
+  banner_img: https://ggssh.oss-cn-beijing.aliyuncs.com/mdimg/7002228f9f97e398bafe0160576c1dfbc038c55f.jpg
