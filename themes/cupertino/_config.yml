@@ -12,7 +12,7 @@ show_excerpt: false
 # navigation config
 nav:
   # the title displays in the upper left corner which won't change
-  title: Blog
+  title: ggssh'blog
   # the items displays in the upper right corner
   items:
     # these items will display as a link
@@ -21,9 +21,9 @@ nav:
     Projects: /projects
     About: /about
     # these will be automatically be an icon
-    GitHub: https://github.com/MrWillCom
-    CodePen: https://codepen.io/mrwillcom
-    Patreon: https://www.patreon.com/MrWillCom
+    GitHub: https://github.com/ggssh
+    # CodePen: https://codepen.io/mrwillcom
+    # Patreon: https://www.patreon.com/MrWillCom
 
 # footer items
 footer:
