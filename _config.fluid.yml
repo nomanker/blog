@@ -81,11 +81,12 @@ theme: fluid
 deploy:
   type:
 
+##############################################################################################################################################
 
+# 以下为主题自定义部分
 # 博客标题
 navbar:
   blog_title: ggssh's blog
-
 
 # 首页
 index:
@@ -99,3 +100,6 @@ index:
       method: "GET"
       headers: {}
       keys: ["hitokoto"]
+
+# 页面顶部大图
+banner_img: https://ggssh.oss-cn-beijing.aliyuncs.com/mdimg/1e7c0d6d4d943662e5b634e1400464a3.jpg
