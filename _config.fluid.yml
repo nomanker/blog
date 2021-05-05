@@ -100,7 +100,13 @@ index:
       method: "GET"
       headers: {}
       keys: ["hitokoto"]
-# 页面顶部大图
-index.banner_img: https://ggssh.oss-cn-beijing.aliyuncs.com/beautiful/img-f31ca7e05037c026dd500dda12c4f2f1_mh1610557450.jpg
-post.banner_img: https://ggssh.oss-cn-beijing.aliyuncs.com/beautiful/192b3c55778a353b6131eb1dd7c93570.jpg
-tag.banner_img: https://ggssh.oss-cn-beijing.aliyuncs.com/beautiful/7002228f9f97e398bafe0160576c1dfbc038c55f.jpg
+  # 页面顶部大图
+  banner_img: https://ggssh.oss-cn-beijing.aliyuncs.com/beautiful/img-f31ca7e05037c026dd500dda12c4f2f1_mh1610557450.jpg
+
+# 文章页
+post:
+  banner_img: https://ggssh.oss-cn-beijing.aliyuncs.com/beautiful/192b3c55778a353b6131eb1dd7c93570.jpg
+
+# 标签页
+tag:
+  banner_img: https://ggssh.oss-cn-beijing.aliyuncs.com/beautiful/7002228f9f97e398bafe0160576c1dfbc038c55f.jpg
