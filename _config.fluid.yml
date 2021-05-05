@@ -93,7 +93,7 @@ index:
   # Slogan
   slogan:
     enable: true
-    text: 没有人能够熄灭满天星光
+    text: 没有人能够熄灭满天星光 每一位开发者都是星星之火
     api:
       enable: false
       url: "https://v1.hitokoto.cn/"
@@ -101,4 +101,4 @@ index:
       headers: {}
       keys: ["hitokoto"]
   # 页面顶部大图
-  banner_img: https://ggssh.oss-cn-beijing.aliyuncs.com/mdimg/7002228f9f97e398bafe0160576c1dfbc038c55f.jpg
+  banner_img: https://ggssh.oss-cn-beijing.aliyuncs.com/beautiful/img-511a5667793b29443b219bd0e08d402f.jpg
