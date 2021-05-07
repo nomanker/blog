@@ -1,6 +1,8 @@
 ---
 title: Nginx入门
 date: 2021-05-07 12:25:08
+categories:
+  - 学习之路
 tags: 
 - 后端
 ---
