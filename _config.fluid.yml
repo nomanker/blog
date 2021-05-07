@@ -93,7 +93,7 @@ index:
   # Slogan
   slogan:
     enable: true
-    text: 没有人能够熄灭满天星光 每一位开发者都是星星之火
+    text: ✈芜湖✈
     api:
       enable: false
       url: "https://v1.hitokoto.cn/"
