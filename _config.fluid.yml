@@ -106,6 +106,10 @@ index:
 # 文章页
 post:
   banner_img: https://ggssh.oss-cn-beijing.aliyuncs.com/beautiful/192b3c55778a353b6131eb1dd7c93570.jpg
+  math:
+    enable: true
+    specific: false
+    engine: mathjax
 
 # 标签页
 tag:
