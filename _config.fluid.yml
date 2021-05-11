@@ -109,7 +109,7 @@ post:
   math:
     enable: true
     specific: false
-    engine: mathjax
+    engine: katex
 
 # 标签页
 tag:
