@@ -125,7 +125,7 @@ category:
 
 # 关于页
 about:
-  avatar: https://img.moegirl.org.cn/common/5/57/%E4%B8%AD%E9%87%8E%E4%BA%8C%E4%B9%83logo.png
+  avatar: https://ggssh.oss-cn-beijing.aliyuncs.com/beautiful/%E4%BA%8C%E4%B9%831.png
   banner_img: https://ggssh.oss-cn-beijing.aliyuncs.com/beautiful/006yt1Omly1g98e64ri7hj30zk0m8gqn.jpg
   name: "ggssh"
   intro: "Why not study ?"
@@ -134,4 +134,4 @@ about:
 
 # 用于浏览器标签的图标 
  # Icon for browser tab 
-favicon: https://img.moegirl.org.cn/common/5/57/%E4%B8%AD%E9%87%8E%E4%BA%8C%E4%B9%83logo.png
+favicon: https://ggssh.oss-cn-beijing.aliyuncs.com/beautiful/%E4%BA%8C%E4%B9%831.png
